@@ -1,0 +1,28 @@
+.card{
+    margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
+
+/* .mt-2{
+    margin-top: ($spacer * .5) !important;
+}
+
+.mb-2{
+    margin-bottom: ($spacer * .5) !important;
+}
+
+.ml-2{
+    margin-left: ($spacer * .5) !important;
+}
+
+.mr-2{
+    margin-right: ($spacer * .5) !important;
+} */
+
+.wrapper{
+    background: #ccc;
+  overflow: hidden;
+  transition: height 200ms;
+}
+
